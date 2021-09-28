@@ -1,0 +1,11 @@
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\bin\Debug\Assign4(a).exe.config
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\bin\Debug\Assign4(a).exe
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\bin\Debug\Assign4(a).pdb
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4(a).csprojAssemblyReference.cache
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4_a_.Form1.resources
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4_a_.Properties.Resources.resources
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4(a).csproj.GenerateResource.cache
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4(a).csproj.CoreCompileInputs.cache
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4(a).exe
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4(a).pdb
+C:\Users\sumra\Desktop\Projects\c# projects\Assign4(a)\Assign4(a)\obj\Debug\Assign4(a).csproj.CopyComplete
